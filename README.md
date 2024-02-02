@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, Tailwind, and TypeScript**
 
-- 💬 Ask me about **React, Firebase, and CSS**
+- 💬 Ask me about **React, Firebase, and Java**
 
 - 📫 How to reach me **bradene0@outlook.com**
 
