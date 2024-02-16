@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! I'm Braden</h1>
 <h3 align="center">A Software Engineer from St Louis</h3>
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I’m currently learning **Next.js and Blazor**
 
 - 💬 Ask me about **React, Firebase, and Java**
 
