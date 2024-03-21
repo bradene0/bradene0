@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning studying for the **CompTIA Sec+** and learning **Clojure**
 
-- 💬 Ask me about **JavaScript and NPM**
+- 💬 Ask me about **JavaScript and Maltego**
 
 - 📫 How to reach me **bradene0@outlook.com**
 
