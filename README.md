@@ -1,9 +1,9 @@
 <h1 align="center">Welcome! I'm Braden</h1>
 <h3 align="center">A Software Engineer from St Louis</h3>
 
-- 🌱 I’m currently working on a degree in Computer Science**
+- 🌱 I’m currently working on a degree in **Computer Science**
 
-- 💬 Ask me about **JavaScript and Maltego**
+- 💬 Ask me about **Typescript**
 
 - 📫 How to reach me **bradene0@outlook.com**
 
