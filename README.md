@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! I'm Braden</h1>
 <h3 align="center">A Software Engineer from St Louis</h3>
 
-- 🌱 I’m currently learning studying for the **CompTIA Sec+** and learning **Clojure**
+- 🌱 I’m currently working on a degree in Computer Science**
 
 - 💬 Ask me about **JavaScript and Maltego**
 
