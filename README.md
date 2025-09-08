@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my statistical arbitrage engine.<br>🤝 I’m looking for open source projects to contribute to!<br>🌱 I’m currently learning Django.<br>⚡ Fun fact - I'm always learning! Recommend me a book!
+🔭 I’m currently working on a Hook-Pentomino Puzzle Solver.<br>🤝 I’m looking for open source projects to contribute to!<br>🌱 I’m currently learning Django.<br>⚡ Fun fact - I'm always learning! Recommend me a book!
 
 
 ## 🌐 Socials:
