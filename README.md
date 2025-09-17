@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently migrating my pentomino hook solver to OCaml.<br>🤝 I’m looking for open source projects to contribute to!<br>🌱 I’m currently learning Django.<br>⚡ Fun fact - I'm always learning! Recommend me a book!
+🔭 I’m currently developing an evolution simulator in python!<br>🤝 I’m looking for a full time job!<br>🌱 I’m  learning OCaml.<br>⚡ Fun fact - I'm always learning! Recommend me a book!
 
 
 ## 🌐 Socials:
