@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on my Quantitative Finance Platform<br>👯 I’m looking to collaborate on open source python projects!<br>🤝 I’m looking for a full time job!<br> View my portfolio [here](https://bradene0.github.io/portfolio/)
+#  View my portfolio [here](https://bradene0.github.io/portfolio/)
 
 
 ## 🌐 Socials:
