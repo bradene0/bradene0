@@ -1,4 +1,7 @@
-#  View my portfolio [here](https://bradene0.github.io/portfolio/)
+# Returned after a long break...
+
+
+##  View my portfolio [here](https://bradene0.github.io/portfolio/)
 
 
 ## 🌐 Socials:
