@@ -1,13 +1,15 @@
-# Rebacked dev
+# Braden Evans
 
-## [Rebacked](https://apps.apple.com/us/app/rebacked/id6809039205)
-##  View my old portfolio [here](https://bradene0.github.io/portfolio/)
+Software engineer. Founder of **Kumiko Solutions**.
 
+Building software, automation, infrastructure, and data systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/bradene00) 
+`TypeScript` `JavaScript` `Python` `Java` `OCaml` `C#` `SQL` `Bash`  
+`React` `Next.js` `Spring Boot` `Flask` `PostgreSQL` `Supabase`  
+`AWS` `Cloudflare` `Terraform` `Docker` `GitHub Actions` `Linux`
 
+### Kumiko
 
+Software and automation for small businesses.
 
-
-
+[kumiko](https://kumikosolutions.com)
