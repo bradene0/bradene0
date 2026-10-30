@@ -1,6 +1,6 @@
 # Braden Evans
 
-Software engineer. Founder of **Kumiko Solutions**.
+Software engineer. Owner of **Kumiko Solutions**.
 
 Building software, automation, infrastructure, and data systems.
 
